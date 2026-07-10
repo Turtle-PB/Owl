@@ -2,6 +2,8 @@
 
 ### Smooth Drill / Trap • Neon Digital • Emotional Futurism
 
+🎵 **Soundtrack: "Blue Diamond"** — [Download MP3](audio/Blue_Diamond_soundtrack.mp3) (3.7 MB, 2:49)
+
 ---
 
 > **This is more than a music video. It's a cry for connection in a world that has forgotten how to look up.**
@@ -42,11 +44,23 @@ Every dollar helps keep the lights on, the GPU running, and the dream alive. Tha
 
 ## 📺 Watch the Video
 
-### Final Video (28.2s, 1280x720)
+### With Soundtrack ("Blue Diamond")
 
-> ⬇️ **[Download `LIKE_ME_IN_16K_Part_II.mp4`](downloads/LIKE_ME_IN_16K_Part_II.mp4)** (3.3 MB)
+> ⬇️ **[Download `LIKE_ME_IN_16K_Part_II_with_audio.mp4`](downloads/LIKE_ME_IN_16K_Part_II_with_audio.mp4)** — 28.2s with intro segment (3.8 MB)
 
-> 💡 *Can't play it inline? Use the download link above — GitHub doesn't embed video previews, so downloading the file directly is the best way to watch.*
+> ⬇️ **[Download `LIKE_ME_IN_16K_Part_II_drop_mix.mp4`](downloads/LIKE_ME_IN_16K_Part_II_drop_mix.mp4)** — 28.2s with beat-drop segment at 30s offset (3.8 MB)
+
+> ⬇️ **[Download `LIKE_ME_IN_16K_Part_II_FULL_TRACK.mp4`](downloads/LIKE_ME_IN_16K_Part_II_FULL_TRACK.mp4)** — Full 2:49 track with looped video (24 MB)
+
+### Without Audio (Visuals Only)
+
+> ⬇️ **[Download `LIKE_ME_IN_16K_Part_II.mp4`](downloads/LIKE_ME_IN_16K_Part_II.mp4)** — 28.2s, no audio (3.3 MB)
+
+### Soundtrack Only
+
+> ⬇️ **[Download `Blue_Diamond_soundtrack.mp3`](audio/Blue_Diamond_soundtrack.mp3)** — Full 2:49 track (3.7 MB)
+
+> 💡 *GitHub doesn't embed video previews. Click any download link above to save the file and play it locally.*
 
 ---
 
@@ -107,6 +121,14 @@ Every dollar helps keep the lights on, the GPU running, and the dream alive. Tha
 ![Scene 8 Preview](previews/clip_08.gif)
 
 > ⬇️ [Download clip_08.mp4](downloads/clip_08.mp4) · Ken Burns zoom-in
+
+---
+
+## 🎤 Lyrics
+
+Full lyrics available in **[`LYRICS.md`](LYRICS.md)**
+
+> *"Где же ты, мой друг, придй / Like me, like me, la-la-la-Like me / Lost deeper in your crystal dreams / Like me, remix me (remix me)"*
 
 ---
 

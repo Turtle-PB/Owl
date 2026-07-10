@@ -237,14 +237,77 @@ This project was created by Paul Adcock, creator of:
 
 ---
 
+## 🦉 Creator
+
+**Paul Adcock** — Developer, creator, and storyteller building at the intersection of code and consciousness.
+
+- 🎵 **Suno:** [suno.com/@paul0wl](https://suno.com/@paul0wl) — AI-generated music
+- 🎬 **YouTube:** [youtube.com/@Nabbit0wl](https://www.youtube.com/@Nabbit0wl) — Creative content & dev logs
+- 💻 **GitHub:** [github.com/Turtle-PB](https://github.com/Turtle-PB) — Code & projects
+
+Creator of:
+- [OwlLogics/AutoSeq](https://github.com/Turtle-PB/-OwlLogics) — Supply chain automation (SAP IDoc/BAPI, YMS, OEM)
+- **OwlAI Studio** — AI tooling platform with MCP Hub
+- **LegalPath** — Legal services PWA (28 views)
+- **Hermes Workflow Runner** — Local-first AI workflow automation
+
+---
+
+## 🛠️ How to Build Something Like This
+
+Want to create your own AI music video? Here's a gentle guide to the tools and the mindset — no secrets, just the path.
+
+### The Stack (All Free)
+
+| Step | Tool | What It Does | Where |
+|------|------|-------------|-------|
+| 1 | **Write the concept** | Your vision, scene-by-scene | Pen & paper or your AI assistant |
+| 2 | **Generate keyframes** | Turn text prompts into cinematic still images | [FLUX 2](https://fal.ai) or any text-to-image AI |
+| 3 | **Animate the stills** | Convert images to short video clips with motion | [Wan2.2 I2V](https://huggingface.co/spaces/kulkas2pintu/wan555) on Hugging Face Spaces |
+| 4 | **Fallback motion** | If the AI video API rate-limits you, use Ken Burns zoom/pan | [ffmpeg](https://ffmpeg.org/) `zoompan` filter |
+| 5 | **Generate the soundtrack** | Create music that matches your emotional arc | [Suno AI](https://suno.com) |
+| 6 | **Stitch it together** | Concatenate clips, add fades, mux audio | [ffmpeg](https://ffmpeg.org/) |
+| 7 | **Automate everything** | Orchestrate the whole pipeline end-to-end | [Hermes Agent](https://hermes-agent.nousresearch.com) by Nous Research |
+
+### The Mindset
+
+1. **Start with the story** — Every frame should serve the emotion, not the other way around
+2. **Use free tools aggressively** — Hugging Face Spaces, FAL.ai, ffmpeg, Suno. $0 is a feature, not a limitation
+3. **When GPU quotas hit, pivot** — Ken Burns effects look great when the AI can't render
+4. **Write it all down** — Scripts in the repo so others can reproduce and remix
+5. **Your pain is your art** — This whole project was built during a mental health crisis. The best creative work often comes from the hardest places
+
+### What You'd Need on Your Machine
+
+```
+- Python 3.11+
+- ffmpeg (for video stitching)
+- An AI assistant (Hermes, or any coding agent)
+- Internet access (for HF Spaces, FAL, Suno)
+- A story to tell
+```
+
+### The Pipeline Scripts in This Repo
+
+Read through these to see exactly how it works:
+- [`final_stitch.py`](final_stitch.py) — Normalize + concat clips with fade in/out
+- [`ken_burns.py`](ken_burns.py) — Generate zoom/pan motion on still images
+- [`mux_audio.py`](mux_audio.py) — Layer soundtrack onto video
+- [`stitch.py`](stitch.py) — Basic clip concatenation
+
+> 💡 *The hardest part isn't the code — it's the vision. Anyone can run ffmpeg. Not everyone can write "Где же ты, мой друг, придй" and mean it.*
+
+---
+
 ## 🙏 Acknowledgments
 
 This project was built with [Hermes Agent](https://hermes-agent.nousresearch.com) by Nous Research — an AI assistant that automated the entire pipeline from concept to GitHub. Every tool used was free. Every dollar saved was a dollar earned.
 
 **Special thanks to:**
 - The open-source community behind Wan2.2 and FLUX
-- Hugging Face for providing free GPU access
-- FAL.ai for the FLUX 2 model
+- [Hugging Face](https://huggingface.co) for providing free GPU access
+- [FAL.ai](https://fal.ai) for the FLUX 2 model
+- [Suno](https://suno.com) for making music creation accessible
 - Everyone who creates free tools that make art possible
 
 ---

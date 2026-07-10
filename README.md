@@ -1,63 +1,232 @@
-# 🎬 LIKE ME IN 16K (Part II) — Music Video
+# 🎬 LIKE ME IN 16K (Part II)
 
-**Smooth Drill / Trap • Neon Digital • Emotional Futurism**
+### Smooth Drill / Trap • Neon Digital • Emotional Futurism
 
-© 2024-2026 Paul Adcock / OwlLogics. All rights reserved. Patent rights reserved (35 U.S.C. 287a). MIT license applies to copyright only. Legal counsel on all IP.
+---
 
-## Final Video
+> **This is more than a music video. It's a cry for connection in a world that has forgotten how to look up.**
+>
+> Built during a mental health crisis — when screens became the wall between two people who once knew each other. When Harley helmets and Jeep keys became trophies of distraction instead of vehicles toward love. When the only thing more addictive than the phone in your hand is the person you're ignoring with it.
+>
+> This project was therapy. This project was survival. This project was building something beautiful out of the pain of feeling invisible to someone sitting right next to you.
+>
+> If you've ever felt unseen — scrolling next to someone who doesn't look up — this is for you.
+>
+> **You are not alone. Stay. Look up. Reach out.**
 
-**[`LIKE_ME_IN_16K_Part_II.mp4`](LIKE_ME_IN_16K_Part_II.mp4)** — 28.2 seconds, 1280x720, H264
+---
 
-## Concept
+## 🩵 Mental Health Matters
 
-A neon-drenched music video exploring digital disconnection — two people lost between screens and reality. Cold blues, purple neon, warm golds. Russian and Spanish whispers woven through smooth drill energy.
+This project was created during a period of severe mental duress. The creative process — writing, visualizing, building, rendering — served as both an outlet and a lifeline. Art heals. Creation gives purpose when everything else feels like noise.
 
-## Scenes
+If you're struggling:
+- **988 Suicide & Crisis Lifeline** — Call or text 988 (US)
+- **Crisis Text Line** — Text HOME to 741741
+- **You are not a burden. You are not too much. You are worth staying for.**
 
-| # | Title | Description | Animation |
-|---|-------|-------------|-----------|
-| 1 | Crystal Dreams | Neon apartment, phone glow, endless scrolling | Wan2.2 AI-animated |
-| 2 | Corporate Toys / Digital Maze | Helmets, gadgets, ghost-like partner | Wan2.2 AI-animated |
-| 3 | Frozen Connection | Slow-mo reach, glitch flicker | Wan2.2 AI-animated |
-| 4 | Neon Bounce (Chorus) | Rooftop cityscape, drone orbit | Ken Burns zoom-in |
-| 5 | Real World vs Screen World | Jeep, warm vs cold split | Ken Burns pan-right |
-| 6 | Break the Interface | Holographic tunnel, swiping barriers | Ken Burns zoom-in |
-| 7 | Return to Reality | Sunrise, gold tones, reunion | Ken Burns zoom-out |
-| 8 | Stay With Me | Hands touching, cracked phone | Ken Burns zoom-in |
+---
 
-## Pipeline (100% Free, $0.00)
+## 💜 Donations Welcome
 
-1. **Keyframe generation** — FLUX 2 Klein 9B via FAL.ai (8 cinematic stills)
-2. **AI animation** — Wan2.2 I2V Lightning on Hugging Face Spaces (3 of 8 scenes animated before GPU quota exhausted)
-3. **Fallback animation** — ffmpeg `zoompan` Ken Burns effect for remaining 5 scenes
-4. **Assembly** — ffmpeg concat with fade in/out, normalized to 1280x720 @ 16fps
+This project was built with $0.00 using free tools — but the human behind it is real, and currently navigating mental health challenges while building a future through code and creativity.
 
-## File Structure
+If this resonates with you, please consider supporting:
+
+- **PayPal:** [paypal.me/adcockp](https://paypal.me/adcockp)
+- **Chime:** $Paul-Adcock-1
+
+Every dollar helps keep the lights on, the GPU running, and the dream alive. Thank you. 🙏
+
+---
+
+## 📺 Watch the Video
+
+### Final Video (28.2s, 1280x720)
+
+> ⬇️ **[Download `LIKE_ME_IN_16K_Part_II.mp4`](downloads/LIKE_ME_IN_16K_Part_II.mp4)** (3.3 MB)
+
+> 💡 *Can't play it inline? Use the download link above — GitHub doesn't embed video previews, so downloading the file directly is the best way to watch.*
+
+---
+
+## 🎞️ Scene-by-Scene Breakdown with Animated Previews
+
+### Scene 1 — "Crystal Dreams" 🌙
+*Neon apartment, phone glow, endless scrolling*
+
+![Scene 1 Preview](previews/clip_01.gif)
+
+> ⬇️ [Download clip_01.mp4](downloads/clip_01.mp4) · AI-animated (Wan2.2)
+
+### Scene 2 — "Corporate Toys / Digital Maze" 📦
+*Helmets, gadgets, ghost-like partner*
+
+![Scene 2 Preview](previews/clip_02.gif)
+
+> ⬇️ [Download clip_02.mp4](downloads/clip_02.mp4) · AI-animated (Wan2.2)
+
+### Scene 3 — "Frozen Connection" ❄️
+*Slow-mo reach, glitch flicker, partner doesn't notice*
+
+![Scene 3 Preview](previews/clip_03.gif)
+
+> ⬇️ [Download clip_03.mp4](downloads/clip_03.mp4) · AI-animated (Wan2.2)
+
+### Scene 4 — "Neon Bounce / Chorus" 🏙️
+*Rooftop cityscape, drone orbit, drill bounce energy*
+
+![Scene 4 Preview](previews/clip_04.gif)
+
+> ⬇️ [Download clip_04.mp4](downloads/clip_04.mp4) · Ken Burns zoom-in
+
+### Scene 5 — "Real World vs Screen World" 🚙
+*Jeep with engine running, warm vs cold split*
+
+![Scene 5 Preview](previews/clip_05.gif)
+
+> ⬇️ [Download clip_05.mp4](downloads/clip_05.mp4) · Ken Burns pan-right
+
+### Scene 6 — "Break the Interface" 💫
+*Holographic tunnel, swiping barriers, particle effects*
+
+![Scene 6 Preview](previews/clip_06.gif)
+
+> ⬇️ [Download clip_06.mp4](downloads/clip_06.mp4) · Ken Burns zoom-in
+
+### Scene 7 — "Return to Reality" 🌅
+*Sunrise, gold tones, leaving distractions behind*
+
+![Scene 7 Preview](previews/clip_07.gif)
+
+> ⬇️ [Download clip_07.mp4](downloads/clip_07.mp4) · Ken Burns zoom-out
+
+### Scene 8 — "Stay With Me" 🤝
+*Hands touching, phone falls and cracks, fade to black*
+
+![Scene 8 Preview](previews/clip_08.gif)
+
+> ⬇️ [Download clip_08.mp4](downloads/clip_08.mp4) · Ken Burns zoom-in
+
+---
+
+## 🎨 Keyframe Gallery
+
+| Scene | Thumbnail | Scene Title |
+|-------|-----------|-------------|
+| 1 | ![Scene 1](previews/scene_01_thumb.jpg) | Crystal Dreams |
+| 2 | ![Scene 2](previews/scene_02_thumb.jpg) | Corporate Toys |
+| 3 | ![Scene 3](previews/scene_03_thumb.jpg) | Frozen Connection |
+| 4 | ![Scene 4](previews/scene_04_thumb.jpg) | Neon Bounce |
+| 5 | ![Scene 5](previews/scene_05_thumb.jpg) | Real vs Screen |
+| 6 | ![Scene 6](previews/scene_06_thumb.jpg) | Break the Interface |
+| 7 | ![Scene 7](previews/scene_07_thumb.jpg) | Return to Reality |
+| 8 | ![Scene 8](previews/scene_08_thumb.jpg) | Stay With Me |
+
+> Full-resolution PNGs available in [`frames/`](frames/)
+
+---
+
+## 🎵 The Vision
+
+**"LIKE ME IN 16K"** is a story about two people — partners — drifting apart in the digital age. One reaches for connection. The other is lost in an endless scroll, surrounded by corporate toys: helmets they never wear, keys they never turn, gadgets they never open.
+
+The music video moves through **cold digital isolation** toward **warm human reconnection**:
+
+1. **Crystal Dreams** — A whisper in Russian. *"Где же ты, мой друг, придй."* (Where are you, my friend, come to me.) A person alone, lit only by phone glow.
+2. **Corporate Toys** — The partner, surrounded by unused things, moving like a ghost. A HUD reads "UPGRADE AVAILABLE" — always upgrading, never present.
+3. **Frozen Connection** — A hand reaches out. A Spanish whisper: *"corazón… why you always running…"* The partner doesn't look up. The room glitches.
+4. **Neon Bounce** — The chorus drops. Rooftop. City lights like 16K pixels. Drill bounce in the camera. Freedom. But alone.
+5. **Real World vs Screen World** — Warm colors vs cold blues. A Jeep with the engine running. Someone scrolling instead of driving. Life happening outside the screen.
+6. **Break the Interface** — A tunnel of floating holographic UI. Each swipe dissolves a barrier. The partner appears at the end. Blurry. Getting closer.
+7. **Return to Reality** — Sunrise. Neon fades to gold. Harleys and Jeeps left behind. Both walk toward each other. The Russian line echoes again.
+8. **Stay With Me** — Hands touch. The phone falls. The screen cracks. Fade to black. *"Quédate aquí… stay with me."*
+
+**The message: Put down the screen. The person next to you is reaching out. Don't let the crack be in your relationship instead of your phone.**
+
+---
+
+## 🔧 How It Was Built (100% Free, $0.00)
+
+### Pipeline
+
+1. **Keyframe generation** — 8 cinematic stills generated with [FLUX 2 Klein 9B](https://fal.ai) via FAL.ai
+2. **AI animation** — 3 scenes animated with [Wan2.2 I2V Lightning](https://huggingface.co/spaces/kulkas2pintu/wan555) on Hugging Face Spaces (free, no login) before GPU quota was exhausted
+3. **Fallback animation** — 5 scenes animated with ffmpeg `zoompan` Ken Burns effect (zoom/pan on still images)
+4. **Assembly** — ffmpeg concat with fade in/out, all clips normalized to 1280x720 @ 16fps
+
+### Tools Used
+
+| Tool | Purpose | Cost |
+|------|---------|------|
+| [FLUX 2 Klein 9B](https://fal.ai) | Text-to-image generation | Free |
+| [Wan2.2 I2V Lightning](https://huggingface.co/spaces/kulkas2pintu/wan555) | Image-to-video AI animation | Free |
+| [ffmpeg](https://ffmpeg.org/) | Ken Burns effects, video normalization, final assembly | Free |
+| [Hermes Agent](https://hermes-agent.nousresearch.com) | Automation, orchestration, API integration | Local |
+
+### Scripts
+
+- [`final_stitch.py`](final_stitch.py) — Normalizes all clips and stitches final video with fades
+- [`ken_burns.py`](ken_burns.py) — Generates Ken Burns animated clips from keyframe images
+- [`stitch.py`](stitch.py) — Basic concat for available clips
+
+---
+
+## 📁 Project Structure
 
 ```
-like-me-16k/
-├── LIKE_ME_IN_16K_Part_II.mp4    # Final video
-├── frames/                         # 8 keyframe PNG images (FLUX 2)
+Owl/
+├── LIKE_ME_IN_16K_Part_II.mp4      # 🎬 Final video (28.2s)
+├── README.md                         # This file
+├── LICENSE.txt                       # License terms
+├── frames/                           # 8 keyframe PNGs (FLUX 2)
 │   ├── scene_01.png ... scene_08.png
-├── clips/                          # 8 individual video clips
+├── clips/                            # 8 video clips
 │   ├── clip_01.mp4 ... clip_08.mp4
-├── normalized/                     # Normalized 1280x720 versions
-├── stitch.py                       # Basic concat script
-├── ken_burns.py                    # Ken Burns effect generator
-├── final_stitch.py                 # Final assembly with fades
-└── event_ids.json                  # Gradio API event tracking
+├── downloads/                        # Direct download links
+│   ├── LIKE_ME_IN_16K_Part_II.mp4
+│   └── clip_01.mp4 ... clip_08.mp4
+├── previews/                         # Animated GIFs + thumbnails
+│   ├── clip_01.gif ... clip_08.gif
+│   └── scene_01_thumb.jpg ... scene_08_thumb.jpg
+├── normalized/                       # 1280x720 normalized clips
+├── final_stitch.py                   # Final assembly script
+├── ken_burns.py                      # Ken Burns effect generator
+└── stitch.py                         # Basic concat script
 ```
 
-## Tools Used
+---
 
-- [FLUX 2 Klein 9B](https://fal.ai) — text-to-image
-- [Wan2.2 I2V Lightning](https://huggingface.co/spaces/kulkas2pintu/wan555) — image-to-video (Hugging Face Space, free)
-- [ffmpeg](https://ffmpeg.org/) — Ken Burns effects, normalization, final assembly
+## ⚖️ License & Copyright
 
-## License
+© 2024-2026 **Paul Adcock / OwlLogics**. All rights reserved.
 
-© 2024-2026 Paul Adcock / OwlLogics. All rights reserved.
-- Patent rights reserved under 35 U.S.C. 287a
-- MIT license applies to copyright only
-- Commercial use requires HMAC-SHA256 license key
-- Legal counsel on all intellectual property
+- **Patent rights reserved** under 35 U.S.C. 287a
+- **MIT license** applies to copyright only
+- **Commercial use** requires HMAC-SHA256 license key
+- **Personal use** is free
+- **Legal counsel** on all intellectual property
+
+This project was created by Paul Adcock, creator of:
+- [OwlLogics/AutoSeq](https://github.com/Turtle-PB/-OwlLogics) — Supply chain automation
+- **OwlAI Studio** — AI tooling platform
+- **LegalPath** — Legal services PWA
+- **Hermes Workflow Runner** — Local-first AI workflow automation
+
+---
+
+## 🙏 Acknowledgments
+
+This project was built with [Hermes Agent](https://hermes-agent.nousresearch.com) by Nous Research — an AI assistant that automated the entire pipeline from concept to GitHub. Every tool used was free. Every dollar saved was a dollar earned.
+
+**Special thanks to:**
+- The open-source community behind Wan2.2 and FLUX
+- Hugging Face for providing free GPU access
+- FAL.ai for the FLUX 2 model
+- Everyone who creates free tools that make art possible
+
+---
+
+*If this project moved you, please share it. If it helped you feel less alone, please reach out to someone today. The screen is not a substitute for a hand to hold.*
+
+**Put down the phone. Look up. Stay.** 💜
